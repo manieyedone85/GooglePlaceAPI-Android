@@ -3,7 +3,7 @@
 #GooglePlaceAPI-Android
     google search location and select your location using google place api demo here....
 
-Steps:
+#Steps:
 1. at gradle ---- to add compile 'com.google.android.gms:play-services:9.2.1'
 2. at manifest----- 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -56,7 +56,7 @@ To create to activity one is MainActivity and GoogleMapActivity as well as layou
 
 Thats it**********************************.
 
-SCREEN SHOTS:
+#SCREEN SHOTS:
 
 ![solarized vim](https://github.com/manieyedone85/GooglePlaceAPI-Android/blob/master/1.PNG)
 
