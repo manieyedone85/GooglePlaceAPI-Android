@@ -16,7 +16,7 @@
         <!--    TestMap   manieyedone85@gmail.com -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="google_app_key" />
+            android:value="paste your google app key here" />
 
         <activity android:name=".MainActivity">
             <intent-filter>
