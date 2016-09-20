@@ -1,5 +1,7 @@
 # GooglePlaceAPI-Android
-google map place api demo
+    *google map place api demo
+#GooglePlaceAPI-Android
+    google search location and select your location using google place api demo here....
 
 Steps:
 1. at gradle ---- to add compile 'com.google.android.gms:play-services:9.2.1'
